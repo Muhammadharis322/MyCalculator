@@ -1,4 +1,4 @@
 # mycalculator
 
-(https://user-images.githubusercontent.com/89929259/174614066-33d533cc-ef8e-4759-a6f5-e28eb12c68c3.jpeg)
+![image](https://user-images.githubusercontent.com/89929259/174614639-ed5942aa-c0c8-461e-b67e-f220f8c154cb.png)
 
